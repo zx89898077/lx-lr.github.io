@@ -39,7 +39,7 @@ export default {
     },
     data() {
         return {
-            interval: 1,
+            interval: 15,
             currentStyle: '',
             enableHtml: false,
             fullStyle: [
